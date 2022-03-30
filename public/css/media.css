@@ -1,0 +1,13 @@
+.chat__messages {
+  max-height: 80vh;
+}
+
+.chat__sidebar {
+  max-height: 90vh;
+}
+
+.compose button {
+  margin: 0;
+  padding: 8px;
+  border-radius: 10px;
+}
